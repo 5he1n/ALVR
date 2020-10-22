@@ -1,4 +1,4 @@
-[🌐](https://github.com/5he1n/ALVR) | English | [Русский](https://github.com/5he1n/ALVR/blob/README-experiment/README-loc/README-ru.md) | [Español](https://github.com/5he1n/ALVR/blob/README-experiment/README-loc/README-es.md)
+[🌐](https://github.com/5he1n/ALVR) | English | [Русский](https://github.com/5he1n/ALVR/blob/README-experiment/.github/README-locs/README-ru.md) | [Español](https://github.com/5he1n/ALVR/blob/README-experiment/.github/README-locs/README-es.md)
 
 <img align="left" width="120" height="120" src="https://github.com/JackD83/ALVR/blob/master/server_release_template/web_gui/web_hi_res_512.png">
 
