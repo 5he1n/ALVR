@@ -1,4 +1,4 @@
-[🌐](https://github.com/JackD83/ALVR) | English | [Русский]()
+[🌐](https://github.com/JackD83/ALVR) | [English](https://github.com/JackD83/ALVR) | [Русский]()
 
 <img align="left" width="120" height="120" src="https://github.com/JackD83/ALVR/blob/master/server_release_template/web_gui/web_hi_res_512.png">
 
